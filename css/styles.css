@@ -1,12 +1,12 @@
 /*********************tag selectors*********************/
 h1{
-    color: blueviolet;
+    color: greenyellow;
     font-size: 50px;
     font-weight: 600;
 }
 
-img{
-    background-color: blueviolet;
+img:hover{
+    background-color:goldenrod;
 }
 
 
@@ -20,6 +20,9 @@ img{
     background-color: brown;
 }
 
+.circular{
+    border-radius: 75%;
+}
 /******************id selector************************/
 
 #heading{
