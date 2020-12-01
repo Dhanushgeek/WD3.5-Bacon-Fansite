@@ -1,9 +1,29 @@
+/*********************tag selectors*********************/
 h1{
-    color: crimson;
+    color: blueviolet;
     font-size: 50px;
     font-weight: 600;
 }
 
 img{
     background-color: blueviolet;
+}
+
+
+/*******************class selectors**********************/
+
+.bacon {
+    background-color: aqua;
+}
+
+.broccoli {
+    background-color: brown;
+}
+
+/******************id selector************************/
+
+#heading{
+    color: crimson;
+    font-size: 60px;
+    font-style: oblique;
 }
